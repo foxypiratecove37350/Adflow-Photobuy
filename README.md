@@ -17,6 +17,14 @@ For download you can use the table down :
         </a>
       </td>
     </tr>
+    <tr>
+      <td>Android(Coming Soon)</td>
+      <td>
+        <a href="">
+          com.adflow.photobuy.apk
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 For install execute the installer download before.
