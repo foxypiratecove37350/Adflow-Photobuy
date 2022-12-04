@@ -43,7 +43,7 @@ For download you can use the table down :
     </tr>
   </tbody>
 </table>
-For install execute the installer download before.
+For install execute the installer downloaded.
 
 # Scrennshots
 <img src="https://github.com/foxypiratecove37350/Adflow-Photobuy/blob/master/screen-1.png?raw=true" width="755px">
