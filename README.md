@@ -51,4 +51,4 @@ v1.6.22
 v1.0
 <img src="https://github.com/foxypiratecove37350/Adflow-Photobuy/blob/master/screen-1.png?raw=true" width="755px">
 
-<h6>©2022 Adflow Inc.</h6>
+<h6>©2022 Adflow Inc. , All rights reserved.</h6>
