@@ -5,5 +5,4 @@ Adflow Photobuy is a C++ app for photo editing.
 For download, click <a href="https://github.com/foxypiratecove37350/Adflow-Photobuy/raw/4dee20803a258f3072edd5814a1407bafd7e6bf6/Adflow%20Photobuy/Photobuy-Setup.exe">here</a>.
 
 # Scrennshots
-<style> img { border-radius: 25px; border: 1px solid #b1b1b1 } </style>
 <img src="https://github.com/foxypiratecove37350/Adflow-Photobuy/blob/master/screen-1.png?raw=true" height="550px">
