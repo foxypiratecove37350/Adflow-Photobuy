@@ -4,11 +4,11 @@ Adflow Photobuy is a C++ app for photo editing.
 # Download and Install
 For download you can use the table down :
 <table>
-  <thead>
-    <td>OS</td>
-    <td>Link</td>
-  </thead>
   <tbody>
+    <tr>
+      <td>OS</td>
+      <td>Link</td>
+    </tr>
     <tr>
       <td>Windows</td>
       <td>
@@ -34,7 +34,7 @@ For download you can use the table down :
       </td>
     </tr>
     <tr>
-      <td>iOS(Coming Soon)</td>
+      <td>iOS/iPadOS(Coming Soon)</td>
       <td>
         <a href="">
           Photobuy-Setup.ipa
