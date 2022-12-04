@@ -47,6 +47,6 @@ For install execute the installer downloaded.
 
 # Scrennshots
 v1.6.22
-<imh src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="755px">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="755px">
 v1.0
 <img src="https://github.com/foxypiratecove37350/Adflow-Photobuy/blob/master/screen-1.png?raw=true" width="755px">
